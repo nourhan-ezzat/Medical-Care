@@ -1,0 +1,8 @@
+@media(min-width: 992px) and (max-width: 1199px){
+    .header-section .header-btn{width: 108%;}
+    .divOne{width: 57%;}
+    .home-video{height: 450px !important;}
+    .home-content{top: 2% !important;}
+    .smallSelect{margin-bottom: 10px;width: 100%;}
+    .box_content span {width: 25% !important;right: -55px !important;}
+}

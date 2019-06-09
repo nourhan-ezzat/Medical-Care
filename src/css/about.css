@@ -1,0 +1,19 @@
+.carousel-indicators li{width: 10px; height: 10px;}
+
+.about-page .card a , .about-page div.collapse.show{border:1px solid #f4ab01;color: #f4ab01}
+
+.about-page .card a.collapsed{border:1px solid #ddd;border-bottom: 1px solid #ddd !important;color:#2ec8a6;}
+
+.counter_section
+{
+  background: url("/images/counter_bg.jpg" );
+  background-size: cover;
+}
+.counter_overlay
+{
+  background: rgba(245, 245, 245, 0.8);
+}
+.border-green{border: 2px solid #2ec8a6}
+
+.counter_section .icon:hover{border-color: #f4ab01}
+.counter_section .icon:hover .text-green{color: #f4ab01}

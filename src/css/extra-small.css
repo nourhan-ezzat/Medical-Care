@@ -1,0 +1,14 @@
+@media(max-width: 575px){
+    .header-section .header-btn{width: 110%;}
+    .home-content{min-height: 0 !important;top: 0 !important;}
+    .ulSmall{margin-bottom: 10px;}
+    .smallSelect{margin-bottom: 3px;}
+    .box_content{margin-bottom: 10%;}
+    .box_content span{
+        top: 105% !important;
+        right: 40% !important;
+        height: 25% !important;
+        transform: rotate(90deg);
+    }
+    .smallTab{margin-bottom: 10px;}
+}

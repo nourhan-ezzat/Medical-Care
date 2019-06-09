@@ -1,0 +1,5 @@
+.contact-form:focus{border: 2px solid #22a98b;box-shadow: unset;}
+.card-hover{border: 2px solid #22a98b;cursor: pointer;}
+.card-hover:hover{border-color: #f4ab01;}
+.card-icon{align-self: center;color: #22a98b;}
+.card-hover:hover .card-icon{color: #f4ab01;}

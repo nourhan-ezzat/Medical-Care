@@ -1,0 +1,11 @@
+.header-section .header-btn{
+    color: #22a98b;
+    border: unset;
+    border-radius: 20px;
+    background-color: #fff;
+}
+.header-section .header-btn:hover{color: #f4ab01;}
+.scrolled-nav-background{background: rgba(202, 200, 200, 1)  !important}
+.scrolled-nav-background a{color: #000;}
+/* .scrolled-nav-background a{color: #fff } */
+.model-btn:hover{background-color: #f4ab01;}

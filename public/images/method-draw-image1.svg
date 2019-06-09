@@ -1,0 +1,29 @@
+<svg width="120" height="120" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <rect id="svg_2" height="74.08" width="49.386" stroke-miterlimit="10" stroke-width="2" stroke="#22a98b" fill="none" y="31.92" x="22.292"/>
+  <rect id="svg_3" height="9.498" width="37.989" stroke-miterlimit="10" stroke-width="2" stroke="#22a98b" fill="#E9EAEB" y="22.423" x="27.99"/>
+  <rect id="svg_4" height="15.195" width="11.395" stroke-miterlimit="10" stroke-width="2" stroke="#22a98b" fill="#E9EAEB" y="90.805" x="43.186"/>
+  <polyline id="svg_5" points="31.789,58.514 31.789,49.016    41.287,49.016 41.287,58.514  " stroke-miterlimit="10" stroke-width="2" stroke="#22a98b" fill="none"/>
+  <polyline id="svg_6" points="31.789,73.709 31.789,64.211    41.287,64.211 41.287,73.709  " stroke-miterlimit="10" stroke-width="2" stroke="#22a98b" fill="none"/>
+  <rect id="svg_7" height="47.486" width="18.995" stroke-miterlimit="10" stroke-width="2" stroke="#22a98b" fill="none" y="58.514" x="3.297"/>
+  <rect id="svg_8" height="9.498" width="13.297" stroke-miterlimit="10" stroke-width="2" stroke="#22a98b" fill="#E9EAEB" y="49.016" x="8.995"/>
+  <path id="svg_9" d="m71.818,45.217c-11.463,0 -20.757,9.293 -20.757,20.756c0,17.912 17.7,20.334 19.188,38.546c0.065,0.828 0.735,1.481 1.568,1.481c0.831,0 1.5,-0.653 1.564,-1.481c1.489,-18.212 19.19,-20.634 19.19,-38.546c0.002,-11.463 -9.293,-20.756 -20.753,-20.756z" stroke-miterlimit="10" stroke-width="2" stroke="#22a98b" fill="#22a98b"/>
+  <circle id="svg_10" r="7.598" cy="66.112" cx="71.678" stroke-miterlimit="10" stroke-width="2" stroke="#22a98b" fill="#FFFFFF"/>
+  <line id="svg_11" y2="106" x2="92.573" y1="106" x1="-2.402" stroke-miterlimit="10" stroke-width="2" stroke="#22a98b" fill="none"/>
+  <path id="svg_12" d="m58.381,9.127l-13.109,0c-0.971,-1.899 -3.258,-3.857 -5.924,-3.857c-0.845,0 -1.651,0.2 -2.391,0.497c-1.486,-3.96 -5.295,-6.931 -9.774,-6.931c-5.762,0 -10.434,6.493 -10.445,10.292l-15.341,0" stroke-miterlimit="10" stroke-width="2" stroke="#BCC0C4" fill="none"/>
+  <line id="svg_13" y2="24.323" x2="-2.402" y1="24.323" x1="10.894" stroke-miterlimit="10" stroke-width="2" stroke="#BCC0C4" fill="none"/>
+  <path id="svg_14" d="m111.566,18.625l-5.649,0c-1.313,-3.799 -4.04,-4.746 -7.307,-4.35c-1.425,-2.455 -4.049,-3.966 -7.094,-3.966c-4.52,0 -8.182,2.618 -8.223,8.316l-7.818,0" stroke-miterlimit="10" stroke-width="2" stroke="#BCC0C4" fill="none"/>
+  <line id="svg_15" y2="24.323" x2="18.493" y1="24.323" x1="14.693" stroke-miterlimit="10" stroke-width="2" stroke="#BCC0C4" fill="none"/>
+  <line id="svg_16" y2="9.127" x2="65.979" y1="9.127" x1="62.181" stroke-miterlimit="10" stroke-width="2" stroke="#BCC0C4" fill="none"/>
+  <line id="svg_17" y2="9.127" x2="73.577" y1="9.127" x1="69.778" stroke-miterlimit="10" stroke-width="2" stroke="#BCC0C4" fill="none"/>
+  <line id="svg_18" y2="106" x2="-10" y1="106" x1="-6.201" stroke-miterlimit="10" stroke-width="2" stroke="#2A5082" fill="none"/>
+  <line id="svg_19" y2="106" x2="103.969" y1="106" x1="96.37" stroke-miterlimit="10" stroke-width="2" stroke="#22a98b" fill="none"/>
+  <line id="svg_20" y2="106" x2="111.566" y1="106" x1="107.768" stroke-miterlimit="10" stroke-width="2" stroke="#22a98b" fill="none"/>
+ </g>
+</svg>

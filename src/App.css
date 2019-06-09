@@ -1,0 +1,22 @@
+/*General style*/
+@font-face{
+    font-family: myFontFamily;
+    src: url(./css/roboto-slab/RobotoSlab-Light.ttf);
+}
+body{
+    padding: 0;
+    margin: 0;
+    font-size: 14px; 
+    font-family: myFontFamily;
+}
+.font-14{font-size: 14px;}
+.text-grey{color: #757575;}
+.text-green{color: #22a98b;}
+.text-black{color: #000000;}
+/* .bg-green, .btn-green{background-color: #2ec8a6} */
+.bg-green, .btn-green{background-color: #22a98b}
+.bg-black{background-color: #111111 }
+.btn-green:hover{background-color: #f4ab01}
+.general-a:hover{color: #f4ab01;text-decoration: none;}
+/* .shadow {box-shadow: -1rem 1.5rem 2rem 1rem rgba(0,0,0,0.15);} */
+.btn-small-padding{padding: 0.155rem 0.95rem !important}
